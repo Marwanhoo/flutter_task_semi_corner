@@ -22,6 +22,10 @@
 ## 🎥 Video
 
 
+https://github.com/Marwanhoo/flutter_task_semi_corner/assets/125823028/eea319a7-65bd-4dea-a386-0dbd479c64ac
+
+
+
 ## 📄 Project Structure
 Visual Representation of the project's directory structure
 - `lib/`
