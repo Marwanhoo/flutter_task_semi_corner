@@ -1,4 +1,4 @@
-# Flutter Task Semi Corner
+# Flutter Movies
 
 ## ✨ Description
 Movie App with Advanced Features 🎬
